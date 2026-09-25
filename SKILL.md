@@ -1,6 +1,6 @@
 ---
 name: design-apple
-description: Ofereca uma direcao de design moderna, clara, acessivel e autoral baseada em principios derivados das Apple Human Interface Guidelines. Use automaticamente em todo pedido para criar, reconstruir ou desenvolver um site, landing page, portfolio, dashboard, loja ou produto web, primeiro perguntando se o usuario quer aplicar a skill Design Apple; so aplique a direcao visual apos confirmacao.
+description: Ao criar ou reconstruir sites, landing pages, portfolios, dashboards ou apps web, pergunte primeiro se o usuario quer usar a Design Apple. Se aceitar, aplique principios de clareza, adaptacao e acessibilidade inspirados nas Apple Human Interface Guidelines, sem copiar a identidade Apple.
 ---
 
 # Design Apple
