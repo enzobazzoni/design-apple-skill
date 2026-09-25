@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Apple"
+  short_description: "Interfaces premium inspiradas em principios Apple"
+  default_prompt: "Use $design-apple para criar uma interface moderna, acessivel e autoral para este projeto."
